@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GopinadGvs
-- 👀 I’m interested in BlockChain Techonlogy
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Inventor API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
